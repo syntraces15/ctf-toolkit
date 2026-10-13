@@ -1,0 +1,7 @@
+rich>=13.0.0
+requests>=2.31.0
+dnspython>=2.4.0
+scapy>=2.5.0
+paramiko>=3.4.0    # SSH
+pysnmp>=6.2.0      # SNMP
+impacket>=0.11.0   # SMB / NTLM / Kerberos
